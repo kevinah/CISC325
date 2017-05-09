@@ -12,3 +12,5 @@ The project had to perform seven tasks:
 <li>Read a post by a friend</li> 
 <li>React to posts by a friend</li>
 </ol>
+
+I have included a pdf explaining our program, and a demo video can be viewed here: https://drive.google.com/file/d/0By4uPkUQ4VZ7YU8tUWczX0lMdDQ/view?usp=sharing
